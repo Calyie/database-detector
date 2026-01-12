@@ -38,4 +38,4 @@ To add a new database:
 5. Update README
 
 ## Questions?
-Open an issue or reach out via [your contact method]
+Open an issue
