@@ -181,11 +181,8 @@ Built for security professionals and network administrators who need fast, relia
 
 ## Author
 
-[Your Name](https://github.com/Calyie)
+[Calyie](https://github.com/Calyie)
 
 ---
 
 **If you find this tool useful, please ⭐ star the repository!**
-```
-
----
